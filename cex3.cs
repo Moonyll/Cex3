@@ -41,7 +41,7 @@ namespace ConsoleApp31
             {
                 Console.WriteLine("Vous êtes un Femme et vous êtes mineure.");
             }
-            else { Console.WriteLine("Il doit y avoir un problème"); }*/
+            else { Console.WriteLine("Il doit y avoir un problème"); }
             if (gender == "Mme")
             {
                 if (age > 17 && age <= 120)
